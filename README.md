@@ -1,1 +1,1 @@
-# termuxtestex
+/ hello word
