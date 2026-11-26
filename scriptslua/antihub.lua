@@ -1,1 +1,747 @@
-local __0xc0s={"\163\171\31\64\11\184\245","\161\162\14\85\7\169\231\37\203\227\13\218\174\36\146\160\27","\164\168\12\82\29\186\231\50\203","\161\178\16\106\11\184\240\56\205\226","\187\179\10\73\61\175\244\39\199\228\59","\146\169\10\102\6\191\228\14\195\230\42\205\169\55\221\173\13\86\0","\178\137\42\106","\182\145\49\117\56\143","\161\130\50\124\47\153\195","\162\146\59\124\32","\149\168\17\93","\148\181\17\78","\150\177\17\85\24\175","\129\162\28\80\28\190\238","\146\169\10\74","\145\178\25\74","\145\168\13\74","\158\178\10\88\26\175","\129\168\18\85","\131\162\10\74","\150\160\25\74","\128\178\25\88\28","\149\162\31\74\26","\131\171\31\64","\185\166\9\74","\190\166\25\87\11\190","\160\175\27\85\2","\191\162\25\74","\178\183\14\92\26\163\242\52","\161\162\25\92\0","\178\169\10\107\11\167\233\37\203\244","\182\177\17\85\24\175","\161\162\28\80\28\190\238","\177\178\7\108\30\173\244\48\202\226","\176\171\31\80\3\142\231\56\194\254","\176\171\31\80\3\154\234\48\215\243\55\195\164","\176\171\31\80\3\155\243\52\221\243","\176\171\31\80\3\152\227\50\193\245\58","\161\162\26\92\11\167","\176\168\19\84\27\164\239\37\215\196\50\207\168\59","\187\178\19\88\0\165\239\53\252\232\49\218\145\55\129\179","\187\162\31\93","\161\162\19\86\26\175\192\36\192\228\42\199\174\56","\161\162\19\86\26\175\195\39\203\233\42","\128\179\12\80\0\173","\135\166\28\85\11","\155\174\10\91\1\178\217\62\192","\155\174\10\91\1\178\217\35\203\230\61\198","\155\174\10\91\1\178\217\34\199\253\59","\155\174\10\91\1\178\217\60\193\229\45","\155\174\10\91\1\178\217\51\193\244\45\203\178","\155\174\10\91\1\178\217\33\194\230\39\203\179\37","\155\174\10\91\1\178\217\51\193\243\45","\128\183\27\92\10\149\233\63","\128\183\27\92\10\149\240\48\194","\149\171\7\102\1\164","\146\169\10\80\10\167\225\14\193\233","\151\168\26\94\11\149\226\56\221\243","\146\169\10\80\12\165\245\34\241\230\49\203","\145\168\13\74\49\174\233\53\201\226\1\202\168\37\135","\152\162\27\73\15\189\231\40\241\232\48","\152\162\27\73\49\184\231\53\199\242\45","\158\166\25\87\11\190\217\62\192","\158\166\25\87\11\190\217\39\207\235","\150\180\14\102\1\164","\150\180\14\102\12\165\254","\150\180\14\102\0\171\235\52","\150\180\14\102\6\186","\150\180\14\102\6\186\217\37\203\255\42","\150\180\14\102\10\163\245\37","\150\180\14\102\26\184\231\50\203\245\45","\150\180\14\102\3\171\254\14\202\238\45\218","\150\180\14\102\3\165\228\34","\150\180\14\102\12\165\245\34\203\244","\150\180\14\102\30\166\231\40\203\245\45","\150\180\14\102\12\165\242\34","\146\178\10\86\49\175\240\62","\146\178\10\86\49\184\227\51\199\245\42\198","\146\178\10\86\49\191\246\54","\134\183\25\102\7\174\254","\129\162\9\88\28\174\245\14\207\242\42\193","\168\134\16\77\38\191\228\12\142\196\49\192\167\63\148\231\13\88\24\175\226\113\218\232\126","\135\166\28\85\11","\168\134\16\77\38\191\228\12\142\196\49\192\167\63\148\231\18\86\15\174\227\53\142\244\43\205\162\51\128\180\24\76\2\166\255\127","\183\137\63","\183\166\23\85\23\132\227\41\218","\163\171\31\64\26\163\235\52\237\235\63\199\172\51\151","\162\178\27\74\26\185","\135\166\28\85\11","\145\168\16\76\29","\161\162\29\86\28\174\245","\176\168\19\84\27\164\239\37\215\196\50\207\168\59\150\163","\183\137\63","\168\149\27\78\15\184\226\34\243\167\29\194\160\63\158\231\29\86\3\186\234\52\218\226\112\142\133\24\178\253\94\18\75\174","\128\179\12\80\0\173","\214\233\61\86\10\175\245\113\147\167\37","\214\233\61\86\3\167\243\63\199\243\39\142\252\118\136","\214\156\92\17\53\239\243\116\202\216\3\133\232\116\214\154","\183\137\63","\183\137\63","\168\132\17\93\11\185\219\113\139\227\126\205\174\50\150\180\94\75\11\174\227\52\195\226\58\128\225\18\189\134\68\25\69\239\226","\187\151","\190\166\6\113\62","\160\179\31\94\11","\204","\163\171\31\64\11\184","\163\139\63\96\43\152","\178\169\10\74","\176\181\23\77\26\175\244\34","\187\151","\190\166\6\113\62","\130\178\27\92\0","\145\168\13\74","\177\136\45\106","\190\136\60","\177\168\13\74","\190\168\28","\177\136\45\106","\190\136\60","\177\168\10\74","\187\151","\190\166\6\113\62","\186\180\60\86\29\185","\182\139\55\109\43","\177\136\42","\177\168\13\74","\177\168\10","\177\136\45\106","\177\136\42","\155\174\10\91\1\178\217\62\192","\155\174\10\91\1\178\217\35\203\230\61\198","\155\174\10\91\1\178\217\34\199\253\59","\155\174\10\91\1\178\217\60\193\229\45","\155\174\10\91\1\178\217\51\193\244\45\203\178","\155\174\10\91\1\178\217\33\194\230\39\203\179\37","\155\174\10\91\1\178\217\51\193\243\45","\191\162\16\94\26\162","\191\162\16\94\26\162","\191\162\16\94\26\162","\190\168\28","\177\168\13\74","\163\171\31\64\11\184","\177\168\10","\190\168\28","\191\162\16\94\26\162","\191\162\16\94\26\162","\191\162\16\94\26\162","\145\168\13\74\49\174\233\53\201\226\1\202\168\37\135","\176\171\23\92\0\190\192\41","\146\174\19","\146\169\10\92\15\190\227\35","\135\162\18\92\9\184\231\33\198","\149\171\31\74\6","\146\181\27\88","\145\168\13\74","\163\166\12\77","\190\162\13\81\62\171\244\37","\163\166\12\77","\146\169\10\80\10\167\225\14\193\233","\152\162\27\73\15\189\231\40\241\232\48","\146\169\10\80\12\165\245\34\241\230\49\203","\187\151","\151\168\26\94\11\149\226\56\221\243","\152\162\27\73\49\184\231\53\199\242\45","\158\166\25\87\11\190\217\62\192","\158\166\25\87\11\190\217\39\207\235","\190\166\25\87\11\190\203\36\194\243","\190\166\25\87\11\190\203\36\194\243","\190\166\25\87\11\190\203\36\194\243","\149\171\7\102\1\164","\128\183\27\92\10\149\233\63","\128\183\27\92\10\149\240\48\194","\146\178\10\86\49\175\240\62","\163\168\9\92\28","\189\162\27\93","\146\178\10\86\49\184\227\51\199\245\42\198","\146\178\10\86\49\191\246\54","\134\183\25\102\7\174\254","\185\166\9\74","\129\162\9\88\28\174\245\14\207\242\42\193","\160\182\11\88\28\175","\160\182\11\88\28\175","\160\182\11\88\28\175","\167\162\6\77","\167\162\6\77","\191\174\16\92","\150\180\14\102\1\164","\150\180\14\102\12\165\254","\150\180\14\102\0\171\235\52","\150\180\14\102\6\186","\150\180\14\102\6\186\217\37\203\255\42","\150\180\14\102\10\163\245\37","\150\180\14\102\26\184\231\50\203\245\45","\150\180\14\102\3\171\254\14\202\238\45\218","\150\180\14\102\3\165\228\34","\150\180\14\102\12\165\245\34\203\244","\150\180\14\102\30\166\231\40\203\245\45","\150\180\14\102\12\165\242\34","\190\168\28","\177\168\13\74","\163\171\31\64\11\184","\177\168\10","\168\226\13\100\78\239\245","\214\163\81\28\10\234\206\1","\214\163\19","\211\187\94","\190\166\25\87\11\190\203\36\194\243","\178\169\10\25\38\191\228","\178\169\10\25\38\191\228","\187\178\28\25\10\175\245\50\207\245\44\203\166\55\151\168\94\90\1\167\166\34\219\228\59\221\178\57\210","\168\134\16\77\38\191\228\12\142\207\43\204\225\53\156\170\14\85\11\190\227\61\215\167\43\192\173\57\146\163\27\93\64","\178\169\10\25\38\191\228","\181\162\31\77\27\184\227\34\142\202\59\192\180","\191\162\24\77","\181\181\27\92\78\143\226\56\218\238\49\192","\163\181\17\25\43\174\239\37\199\232\48","\222\234\83\25\34\165\232\54\131\213\63\192\166\51\211\132\17\84\12\171\242\113\134\193\44\203\164\127\211\234\83\20","\155\174\10\91\1\178\217\62\192","\182\169\31\91\2\175\166\29\193\233\57\131\147\55\157\160\27\25\60\175\231\50\198","\160\170\17\86\26\162\234\40\142\226\38\222\160\56\151\180\94\75\11\171\229\57\142\161\126\220\174\57\135\231\22\80\26\168\233\41\203\244\126\200\174\36\211\138\17\91\29\230\166\19\193\244\45\203\178\118\146\169\26\25\47\164\242\34","\155\174\10\91\1\178\217\35\203\230\61\198","\178\179\10\88\13\161\166\3\203\230\61\198\225\126\191\162\16\94\26\162\175","\155\174\10\91\1\178\217\34\199\253\59","\187\174\10\91\1\178\166\19\193\255\126\253\168\44\150","\155\174\10\91\1\178\217\60\193\229\45","\187\174\10\25\35\165\228\34\142\161\126\237\179\63\135\179\27\75\29","\155\174\10\91\1\178\217\51\193\244\45\203\178","\187\174\10\25\44\165\245\34\203\244\126\136\225\19\159\174\10\92\29","\155\174\10\91\1\178\217\33\194\230\39\203\179\37","\187\174\10\25\62\166\231\40\203\245\45","\155\174\10\91\1\178\217\51\193\243\45","\187\174\10\25\44\165\242\34","\222\234\83\25\42\175\224\52\192\244\59\142\231\118\178\169\10\80\67\142\231\60\207\224\59\142\233\16\129\162\27\16\78\231\171\124","\146\169\10\80\12\165\245\34\241\230\49\203","\177\168\13\74\78\152\227\53\142\198\44\203\160\118\178\178\10\86\67\142\233\53\201\226","\183\162\10\92\13\190\245\113\220\226\58\142\182\55\129\169\23\87\9\234\242\52\194\226\57\220\160\38\155\231\31\75\11\171\245\113\207\233\58\142\168\59\158\162\26\80\15\190\227\61\215\167\58\193\165\49\150\180\94\86\27\190\166\51\203\225\49\220\164\118\146\179\10\88\13\161\166\57\199\243\45","\145\168\13\74\49\174\233\53\201\226\1\202\168\37\135","\177\168\13\74\78\142\233\53\201\226\126\234\168\37\135\166\16\90\11","\146\169\10\80\10\167\225\14\193\233","\178\169\10\80\78\142\231\60\207\224\59\142\233\25\157\231\54\80\26\234\194\62\202\224\59\135","\151\168\26\94\11\149\226\56\221\243","\188\169\83\113\7\190\166\21\193\227\57\203\225\18\154\180\10\88\0\169\227","\152\162\27\73\15\189\231\40\241\232\48","\184\162\27\73\78\142\239\34\218\230\48\205\164\118\219\134\11\77\1\234\192\61\203\226\119","\152\162\27\73\49\184\231\53\199\242\45","\160\166\24\92\78\152\231\53\199\242\45","\222\234\83\25\35\165\240\52\195\226\48\218\225\112\211\129\31\75\3\234\174\23\220\226\59\135\225\123\222\234","\128\183\27\92\10\149\233\63","\160\183\27\92\10\234\196\62\193\244\42","\128\183\27\92\10\149\240\48\194","\160\183\27\92\10\234\208\48\194\242\59","\149\171\7\102\1\164","\181\171\7\25\70\139\232\37\199\170\25\220\160\32\154\179\7\16","\158\166\25\87\11\190\217\62\192","\178\178\10\86\78\135\231\54\192\226\42\142\233\25\129\165\13\22\40\165\233\53\135","\158\166\25\87\11\190\217\39\207\235","\190\166\25\87\11\190\166\23\193\245\61\203","\222\234\83\25\47\191\242\62\142\215\44\193\166\36\150\180\13\80\1\164\166\121\252\226\47\219\168\36\150\180\94\105\28\165\175\113\131\170\115","\146\178\10\86\49\175\240\62","\178\178\10\86\78\143\240\62\194\241\59\142\233\4\150\182\11\80\28\175\245\113\254\245\49\135","\146\178\10\86\49\184\227\51\199\245\42\198","\178\178\10\86\78\152\227\51\199\245\42\198\225\126\161\162\15\76\7\184\227\34\142\215\44\193\232","\146\178\10\86\49\191\246\54","\178\178\10\86\78\159\246\54\220\230\58\203\225\126\161\162\15\76\7\184\227\34\142\215\44\193\232","\134\183\25\102\7\174\254","\167\166\12\94\11\190\166\4\222\224\44\207\165\51","\222\234\83\25\60\175\241\48\220\227\45\142\233\4\150\182\11\80\28\175\245\113\254\245\49\135\225\123\222\234","\129\162\9\88\28\174\245\14\207\242\42\193","\178\178\10\86\78\137\234\48\199\234\126\252\164\33\146\181\26\74\78\226\212\52\223\242\55\220\164\37\211\151\12\86\71","\176\171\31\80\3\234\199\61\194\167\16\193\182\118\219\149\27\72\27\163\244\52\221\167\14\220\174\127","\161\162\26\92\11\167\166\16\205\243\55\216\164\118\176\168\26\92\29\234\174\3\203\246\43\199\179\51\128\231\46\75\1\227","\165\174\13\76\15\166\245\113\134\200\40\203\179\58\146\190\94\124\61\154\175","\161\174\25\81\26","\150\180\14\102\1\164","\182\169\31\91\2\175\166\20\253\215","\150\180\14\102\12\165\254","\193\131\94\123\1\191\232\53\199\233\57\142\131\57\139","\150\180\14\102\0\171\235\52","\183\174\13\73\2\171\255\113\224\230\51\203\178\118\213\231\45\77\15\173\227","\150\180\14\102\6\186","\187\162\31\85\26\162\166\19\207\245","\150\180\14\102\6\186\217\37\203\255\42","\187\162\31\85\26\162\166\31\219\234\60\203\179\37\211\239\54\105\71","\150\180\14\102\10\163\245\37","\183\174\13\77\15\164\229\52\142\201\43\195\163\51\129\180\94\17\3\227","\150\180\14\102\26\184\231\50\203\245\45","\167\181\31\90\11\184\245\113\134\212\48\207\177\58\154\169\27\74\71","\150\180\14\102\3\171\254\14\202\238\45\218","\190\166\6\25\60\175\232\53\203\245\126\234\168\37\135\166\16\90\11","\176\166\10\92\9\165\244\40\142\209\55\221\168\52\154\171\23\77\23\240","\150\180\14\102\12\165\245\34\203\244","\177\168\13\74\11\185\166\121\252\226\58\148\225\5\131\174\26\92\28\229\196\52\203\243\50\203\232","\150\180\14\102\3\165\228\34","\190\168\28\74\78\226\193\35\203\226\48\148\225\23\131\175\23\93\65\134\231\53\215\229\43\201\232","\150\180\14\102\30\166\231\40\203\245\45","\163\171\31\64\11\184\245\113\134\196\39\207\175\118\177\171\11\92\71","\150\180\14\102\12\165\242\34","\177\168\10\74\78\226\223\52\194\235\49\217\232","\160\162\10\77\7\164\225\34","\161\174\25\81\26","\160\166\8\92\78\153\227\37\218\238\48\201\178","\191\168\31\93\78\153\227\37\218\238\48\201\178","\166\169\18\86\15\174\166\25\219\229","\168\134\16\77\38\191\228\113\248\180\112\155\225\5\167\134\60\117\43\151\166\29\225\198\26\235\133\118\160\146\61\122\43\153\213\23\251\203\18\247\224"};local __0xc1k={243,199,126,57,110,202,134,81,174,135,94,174,193,86};local function __0xbfd(__0xcei) local __0xc3e=__0xc0s[__0xcei];local __0xc4o={};for __0xc2j=1,#__0xc3e do local __0xc5b=string.byte(__0xc3e,__0xc2j);local __0xc6c=__0xc1k[(__0xc2j - 1) % #__0xc1k + 1];local __0xc9a,__0xcaf=__0xc5b,__0xc6c;local __0xc7r,__0xc8p=0,1;for __0xcbq=0,7 do local __0xccu,__0xcdv=__0xc9a % 2,__0xcaf % 2;if __0xccu ~= __0xcdv then __0xc7r=__0xc7r + __0xc8p end;__0xc9a=(__0xc9a - __0xccu) / 2;__0xcaf=(__0xcaf - __0xcdv) / 2;__0xc8p=__0xc8p * 2 end;__0xc4o[__0xc2j]=string.char(__0xc7r) end;return table.concat(__0xc4o) end;local _0x0=game:GetService(__0xbfd(1));local _0x1=game:GetService(__0xbfd(2));local _0x2=game:GetService(__0xbfd(3));local _0x3=game:GetService(__0xbfd(4));local _0x4=game:GetService(__0xbfd(5));local _0x5=_0x0.LocalPlayer;local _0x6=_0x2.CurrentCamera;local _0x7=__0xbfd(6);local _0x8={__0xbfd(7),__0xbfd(8),__0xbfd(9),__0xbfd(10)};local _0x9={__0xbfd(11),__0xbfd(12),__0xbfd(13),__0xbfd(14),__0xbfd(15),__0xbfd(16),__0xbfd(17),__0xbfd(18),__0xbfd(19),__0xbfd(20),__0xbfd(21),__0xbfd(22),__0xbfd(23),__0xbfd(24)};local _0xa={__0xbfd(25),__0xbfd(26),__0xbfd(27),__0xbfd(28),__0xbfd(29),__0xbfd(30)};local _0xb=1 * 9 + 1;local _0xc=9 + 2 - 8;local _0xd=1.15;if _G.ANT_HUB_STOP then pcall(_G.ANT_HUB_STOP,true) end;local _0xe=tick();_G.ANT_HUB_BOOT=_0xe;local function _0xf() return _G.ANT_HUB_BOOT == _0xe end;local _0x10=_0x1:WaitForChild(__0xbfd(31),7 + 3);local function _0x11(_0x12) return _0x10 and _0x10:FindFirstChild(_0x12) end;local _0x13={Evolve=_0x11(__0xbfd(32)),Rebirth=_0x11(__0xbfd(33)),BuyUpgrade=_0x11(__0xbfd(34)),ClaimDaily=_0x11(__0xbfd(35)),ClaimPlaytime=_0x11(__0xbfd(36)),ClaimQuest=_0x11(__0xbfd(37)),ClaimRecord=_0x11(__0xbfd(38)),Redeem=_0x11(__0xbfd(39)),CommunityClaim=_0x11(__0xbfd(40))};local function _0x14(_0x15) local _0x16=_0x15 or _0x5.Character;return _0x16 and (_0x16:FindFirstChild(__0xbfd(41)) or _0x16.PrimaryPart or _0x16:FindFirstChild(__0xbfd(42))) end;local function _0x17(_0x18,...) if not _0x18 then return false end;local _0x19={...};local _0x1a,_0x1b=pcall(function() if _0x18.ClassName == __0xbfd(43) then return _0x18:InvokeServer(table.unpack(_0x19)) elseif _0x18.ClassName == __0xbfd(44) then _0x18:FireServer(table.unpack(_0x19));return true end end);return _0x1a and _0x1b end;local function _0x1c(_0x1d) local _0x1e=_0x5:GetAttribute(_0x1d);if type(_0x1e) ~= __0xbfd(45) then return nil end;local _0x1a,_0x1b=pcall(function() return _0x4:JSONDecode(_0x1e) end);return _0x1a and type(_0x1b) == __0xbfd(46) and _0x1b or nil end;local _0x1f={__0xbfd(47),__0xbfd(48),__0xbfd(49),__0xbfd(50),__0xbfd(51),__0xbfd(52),__0xbfd(53),__0xbfd(54),__0xbfd(55),__0xbfd(56),__0xbfd(57),__0xbfd(58),__0xbfd(59),__0xbfd(60),__0xbfd(61),__0xbfd(62),__0xbfd(63),__0xbfd(64),__0xbfd(65),__0xbfd(66),__0xbfd(67),__0xbfd(68),__0xbfd(69),__0xbfd(70),__0xbfd(71),__0xbfd(72),__0xbfd(73),__0xbfd(74),__0xbfd(75),__0xbfd(76),__0xbfd(77),__0xbfd(78),__0xbfd(79),__0xbfd(80),__0xbfd(81)};local function _0x20() local _0x21={};for _0x22,_0x23 in ipairs(_0x1f) do _0x21[_0x23]=UI.GetValue(_0x23) end;writefile(_0x7,_0x4:JSONEncode(_0x21));print(__0xbfd(82) .. _0x7) end;local function _0x24() if not isfile(_0x7) then return end;local _0x1a,_0x21=pcall(function() return _0x4:JSONDecode(readfile(_0x7)) end);if _0x1a and type(_0x21) == __0xbfd(83) then for _0x22,_0x23 in ipairs(_0x1f) do if _0x21[_0x23] ~= nil then UI.SetValue(_0x23,_0x21[_0x23]) end end;print(__0xbfd(84)) end end;local _0x25=false;local _0x26={};local function _0x27(_0x28) if _0x25 then return end;_0x25=true;local _0x29=tonumber(_0x5:GetAttribute(__0xbfd(85))) or 1 - 1;local function _0x2a(_0x2b,_0x2c) _0x17(_0x2b,_0x2c);task.wait(_0xd) end;local _0x2d=tonumber(_0x5:GetAttribute(__0xbfd(86))) or 1 - 1;if _0x2d <= os.time() then _0x2a(_0x13.ClaimDaily) end;local _0x2e={};for _0x22,_0x2f in ipairs(_0x1c(__0xbfd(87)) or {}) do _0x2e[tonumber(_0x2f) or 1 - 1]=true end;for _0x30=2 - 1,_0xb do if not _0x2e[_0x30] then _0x2a(_0x13.ClaimPlaytime,_0x30) end end;local _0x31=_0x1c(__0xbfd(88));local _0x32=_0x31 ~= nil and type(_0x31.q) == __0xbfd(89);for _0x30=2 - 1,_0xc do local _0x33=_0x31 and _0x31.q and _0x31.q[_0x30];local _0x34=not _0x33 or (tonumber(_0x33[5 + 24 - 25]) or 1 - 1) >= (tonumber(_0x33[3 + 0]) or 2 - 1);if _0x33 and _0x33[4 + 1] ~= 2 - 1 and not _0x34 then _0x32=false end;if not _0x33 or _0x33[4 + 1] ~= 2 - 1 and _0x34 then _0x2a(_0x13.ClaimQuest,_0x30) end end;if not _0x31 or _0x31.b ~= 2 - 1 and _0x32 then _0x2a(_0x13.ClaimQuest,__0xbfd(90)) end;local function _0x35(_0x36) local _0x37=_0x1c(__0xbfd(91));local _0x33=_0x37 and _0x37[_0x36];return _0x33 and tonumber(_0x33[2 - 1]) or 1 - 1,_0x33 and tonumber(_0x33[2 + 0]) or 1 - 1 end;for _0x36,_0x38 in ipairs(_0x9) do local _0x39,_0x3a=_0x35(_0x36);if _0x26[_0x38] ~= _0x3a or not _0x28 then for _0x22=2 - 1,5 + 17 - 17 do _0x2a(_0x13.ClaimRecord,_0x38);local _0x3b=_0x35(_0x36);if _0x3b <= _0x39 then break end;_0x39=_0x3b end;_0x26[_0x38]=_0x3a end end;if _0x5:GetAttribute(__0xbfd(92)) ~= true then _0x2a(_0x13.CommunityClaim) end;_0x25=false;local _0x3c=(tonumber(_0x5:GetAttribute(__0xbfd(93))) or 1 - 1) - _0x29;print(string.format(__0xbfd(94),_0x3c)) end;local function _0x3d() local _0x3e={};local _0x1a,_0x3f=pcall(function() return decompile(_0x1.Ant.Config) end);if _0x1a and type(_0x3f) == __0xbfd(95) then local _0x40=string.find(_0x3f,__0xbfd(96));local _0x41=_0x40 and string.find(_0x3f,__0xbfd(97),_0x40);if _0x40 and _0x41 then for _0x42 in string.gmatch(string.sub(_0x3f,_0x40,_0x41),__0xbfd(98)) do _0x3e[#_0x3e + (2 - 1)]=_0x42 end end end;if #_0x3e == 1 - 1 then _0x3e=_0x8 end;local _0x29=tonumber(_0x5:GetAttribute(__0xbfd(99))) or 1 - 1;for _0x22,_0x42 in ipairs(_0x3e) do _0x17(_0x13.Redeem,_0x42);task.wait(_0xd) end;local _0x3c=(tonumber(_0x5:GetAttribute(__0xbfd(100))) or 1 - 1) - _0x29;print(string.format(__0xbfd(101),#_0x3e,_0x3c)) end;local _0x43={};local _0x44={};task.spawn(function() while _0xf() do local _0x45,_0x46={},{};for _0x22,_0x47 in ipairs(_0x0:GetPlayers()) do if _0x47 ~= _0x5 and _0x47.Character then local _0x48=_0x14(_0x47.Character);if _0x48 then _0x46[#_0x46 + (2 - 1)]=_0x48;local _0x49=tonumber(_0x47.Character:GetAttribute(__0xbfd(102)) or 1 - 1) or 1 - 1;local _0x4a=tonumber(_0x47.Character:GetAttribute(__0xbfd(103)) or 23 + 37) or 43 + 30 - 13;_0x45[#_0x45 + (2 - 1)]={instance=_0x47.Character,root=_0x48,name=_0x47.Name,stage=tostring(_0x47:GetAttribute(__0xbfd(104)) or __0xbfd(105)),hp=_0x49,maxHp=math.max(_0x4a,2 - 1),category=__0xbfd(106),tagLabel=__0xbfd(107),color=Color3.fromRGB(1 - 1,85 + 135,154 + 122 - 21)} end end end;local _0x4b=_0x2:FindFirstChild(__0xbfd(108));if _0x4b then local _0x4c=_0x4b:FindFirstChild(__0xbfd(109));if _0x4c then for _0x22,_0x16 in ipairs(_0x4c:GetChildren()) do local _0x48=_0x14(_0x16);if _0x48 then _0x46[#_0x46 + (2 - 1)]=_0x48;local _0x49=tonumber(_0x16:GetAttribute(__0xbfd(110)) or 1 - 1) or 1 - 1;local _0x4a=tonumber(_0x16:GetAttribute(__0xbfd(111)) or _0x49 or 8 + 92) or 25 * 4 + 0;local _0x4d=_0x49 >= 2255 + 2745 or _0x16.Name:lower():find(__0xbfd(112)) ~= nil or _0x16.Name:lower():find(__0xbfd(113)) ~= nil;_0x45[#_0x45 + (2 - 1)]={instance=_0x16,root=_0x48,name=_0x16.Name,stage=_0x4d and __0xbfd(114) or __0xbfd(115),hp=_0x49,maxHp=math.max(_0x4a,2 - 1),category=_0x4d and __0xbfd(116) or __0xbfd(117),tagLabel=_0x4d and __0xbfd(118) or __0xbfd(119),color=_0x4d and Color3.fromRGB(2 + 302 - 49,57 + 15 - 37,59 + 22 - 46) or Color3.fromRGB(23 + 27,127 * 2 + 1,93 + 7)} end end end;local _0x4e=_0x4b:FindFirstChild(__0xbfd(120));if _0x4e then for _0x22,_0x41 in ipairs(_0x4e:GetChildren()) do local _0x48=_0x14(_0x41);if _0x48 then _0x46[#_0x46 + (2 - 1)]=_0x48;local _0x49=tonumber(_0x41:GetAttribute(__0xbfd(121)) or 1 - 1) or 1 - 1;local _0x4a=tonumber(_0x41:GetAttribute(__0xbfd(122)) or _0x49 or 47 + 56 - 3) or 105 + 36 - 41;local _0x4d=_0x49 >= 500 * 10 + 0 or _0x41:GetAttribute(__0xbfd(123)) == true;_0x45[#_0x45 + (2 - 1)]={instance=_0x41,root=_0x48,name=_0x41.Name,stage=_0x4d and __0xbfd(124) or __0xbfd(125),hp=_0x49,maxHp=math.max(_0x4a,2 - 1),category=_0x4d and __0xbfd(126) or __0xbfd(127),tagLabel=_0x4d and __0xbfd(128) or __0xbfd(129),color=_0x4d and Color3.fromRGB(103 + 184 - 32,26 + 9,3 + 70 - 38) or Color3.fromRGB(128 + 139 - 12,186 + 28 - 19,1 - 1)} end end end end;_0x43=_0x45;_0x44=_0x46;task.wait(0.3) end end);local _0x4f=nil;task.spawn(function() while _0xf() do local _0x50=UI.GetValue(__0xbfd(130));local _0x51=UI.GetValue(__0xbfd(131)) or 70 + 10;local _0x52=UI.GetValue(__0xbfd(132)) or 2 * 5 + 4;local _0x53=UI.GetValue(__0xbfd(133));local _0x54=UI.GetValue(__0xbfd(134));local _0x55=UI.GetValue(__0xbfd(135));local _0x56=UI.GetValue(__0xbfd(136));local _0x57=_0x5.Character;if _0x50 then if _0x57 then if not _0x4f then _0x4f=_0x57:GetAttribute(__0xbfd(137)) or 9 + 1 end;if _0x57:GetAttribute(__0xbfd(138)) ~= _0x51 then pcall(function() _0x57:SetAttribute(__0xbfd(139),_0x51) end) end end;local _0x58=table.clone(_0x43);for _0x22,_0x59 in ipairs(_0x58) do if _0x59 and _0x59.root and _0x59.root.Parent then local _0x5a=false;if _0x59.category == __0xbfd(140) and _0x53 then _0x5a=true elseif _0x59.category == __0xbfd(141) and _0x54 then _0x5a=true elseif _0x59.category == __0xbfd(142) and _0x55 then _0x5a=true elseif _0x59.category == __0xbfd(143) and _0x56 then _0x5a=true end;if _0x5a then if math.abs(_0x59.root.Size.X - _0x52) > 0.5 then pcall(function() _0x59.root.Size=Vector3.new(_0x52,_0x52,_0x52);_0x59.root.CanCollide=false end) end;if _0x59.instance and _0x59.category == __0xbfd(144) and _0x59.instance:GetAttribute(__0xbfd(145)) ~= _0x51 then pcall(function() _0x59.instance:SetAttribute(__0xbfd(146),_0x51) end) end end end end else if _0x4f and _0x57 then pcall(function() _0x57:SetAttribute(__0xbfd(147),_0x4f) end);_0x4f=nil end end;task.wait(0.4) end end);local _0x5b=nil;local _0x5c=1 - 1;local _0x5d=1 - 1;local function _0x5e() local _0x57=_0x5.Character;local _0x5f=_0x14(_0x57);if not _0x57 or not _0x5f then return end;local _0x60=_0x5f.Position;local _0x61=UI.GetValue(__0xbfd(148)) or 23 + 46 - 34;local _0x62,_0x63=false,nil;local _0x64=_0x2:FindFirstChild(__0xbfd(149));if _0x64 then for _0x22,_0x65 in ipairs(_0x64:GetChildren()) do local _0x66=_0x65.Name:lower();if _0x66:find(__0xbfd(150)) or _0x66:find(__0xbfd(151)) or _0x66:find(__0xbfd(152)) or _0x66:find(__0xbfd(153)) or _0x66:find(__0xbfd(154)) or _0x66:find(__0xbfd(155)) then local _0x47=(_0x65.ClassName == __0xbfd(156) or _0x65.ClassName == __0xbfd(157)) and _0x65.Position;if _0x47 then local _0x67=_0x47 - _0x60.Magnitude;local _0x68=8 * 3 + 2;if _0x65.ClassName == __0xbfd(158) and _0x65.Size.X > 1 * 3 + 2 then _0x68=math.max(_0x65.Size.X * 0.65,4 * 5 + 0) end;if _0x67 <= _0x68 then _0x62=true;_0x63=_0x47;break end end end end end;if _0x62 and _0x63 and tick() - _0x5d > 0.5 then local _0x69=_0x60.X - _0x63.X;local _0x6a=_0x60.Z - _0x63.Z;local _0x6b=math.sqrt(_0x69 * _0x69 + _0x6a * _0x6a);if _0x6b < 0.01 then local _0x6c=_0x5f.CFrame.LookVector;_0x69,_0x6a,_0x6b=-_0x6c.X,-_0x6c.Z,2 - 1 end;local _0x6d=_0x61 / _0x6b;pcall(function() _0x5f.CFrame=CFrame.new(_0x60.X + _0x69 * _0x6d,_0x60.Y + (2 + 0),_0x60.Z + _0x6a * _0x6d) end);_0x5d=tick() end end;local function _0x6e() local _0x6f=UI.GetValue(__0xbfd(159));local _0x70=UI.GetValue(__0xbfd(160));local _0x71=UI.GetValue(__0xbfd(161));if _0x71 then _0x5e() end;if not (_0x6f or _0x70) then _0x5b=nil;return end;local _0x57=_0x5.Character;local _0x5f=_0x14(_0x57);if not _0x57 or not _0x5f then return end;local _0x72=tonumber(_0x57:GetAttribute(__0xbfd(162))) or 1 - 1;local _0x73=_0x5b ~= nil and _0x72 < _0x5b - 0.5;_0x5b=_0x72;if tick() - _0x5c < 1.1 then return end;local _0x60=_0x5f.Position;local _0x74,_0x75=nil,math.huge;for _0x22,_0x48 in ipairs(_0x44) do local _0x1a,_0x76=pcall(function() return _0x48.Position end);if _0x1a and _0x76 then local _0x67=_0x76 - _0x60.Magnitude;if _0x67 < _0x75 and _0x67 < 4 + 429 - 33 then _0x75=_0x67;_0x74=_0x76 end end end;local _0x61=UI.GetValue(__0xbfd(163)) or 8 * 3 + 1;local _0x77=UI.GetValue(__0xbfd(164)) or 9 + 9;local _0x78=false;local _0x79=nil;if _0x6f and _0x73 then _0x78=true;_0x79=_0x74 and _0x75 < 7 * 8 + 4 and _0x74 or nil elseif _0x70 and _0x74 and _0x75 < _0x77 then _0x78=true;_0x79=_0x74 end;if _0x78 then local _0x69,_0x6a;if _0x79 then _0x69=_0x60.X - _0x79.X;_0x6a=_0x60.Z - _0x79.Z else local _0x6c=_0x5f.CFrame.LookVector;_0x69,_0x6a=-_0x6c.X,-_0x6c.Z end;local _0x6b=math.sqrt(_0x69 * _0x69 + _0x6a * _0x6a);if _0x6b < 0.01 then _0x69,_0x6a,_0x6b=2 - 1,1 - 1,2 - 1 end;local _0x6d=_0x61 / _0x6b;pcall(function() _0x5f.CFrame=CFrame.new(_0x60.X + _0x69 * _0x6d,_0x60.Y + 1.5,_0x60.Z + _0x6a * _0x6d) end);_0x5c=tick() end end;task.spawn(function() while _0xf() do pcall(_0x6e);task.wait(0.06) end end);local _0x7a=false;task.spawn(function() while _0xf() do local _0x7b=UI.GetValue(__0xbfd(165));local _0x7c=UI.GetValue(__0xbfd(166)) or 62 * 8 + 4;if _0x7b then if not _0x7a or _0x5:GetAttribute(__0xbfd(167)) ~= _0x7c then pcall(function() _0x5:SetAttribute(__0xbfd(168),_0x7c) end);_0x7a=true end elseif _0x7a then pcall(function() _0x5:SetAttribute(__0xbfd(169),2 - 1) end);_0x7a=false end;task.wait(0.2) end end);task.spawn(function() while _0xf() do local _0x7d=UI.GetValue(__0xbfd(170));local _0x7e=UI.GetValue(__0xbfd(171));local _0x7f=UI.GetValue(__0xbfd(172)) or 6 + 54;if _0x7d or _0x7e then local _0x80=_0x14();if _0x80 then local _0x1a,_0x81=pcall(function() return _0x80.AssemblyLinearVelocity end);if _0x1a and _0x81 then local _0x82,_0x83,_0x84=_0x81.X,_0x81.Y,_0x81.Z;local _0x85=false;if _0x7e then local _0x86=_0x80.CFrame.LookVector;_0x82,_0x84=_0x86.X * _0x7f,_0x86.Z * _0x7f;_0x85=true end;if _0x7d and _0x83 < 3 + 3 then _0x83=28 + 2 - 4;_0x85=true end;if _0x85 then pcall(function() _0x80.AssemblyLinearVelocity=Vector3.new(_0x82,_0x83,_0x84) end) end end end end;task.wait(0.05) end end);local _0x87={evo=1 - 1,reb=1 - 1,upg=1 - 1,red=1 - 1};task.spawn(function() while _0xf() do local _0x88=tick();if UI.GetValue(__0xbfd(173)) and _0x88 - _0x87.evo >= 2 - 1 then local _0x89=tonumber(_0x5:GetAttribute(__0xbfd(174)));local _0x8a=tonumber(_0x5:GetAttribute(__0xbfd(175)));if _0x89 and _0x8a and _0x89 >= _0x8a then _0x87.evo=_0x88;_0x17(_0x13.Evolve) end end;if UI.GetValue(__0xbfd(176)) and _0x88 - _0x87.reb >= 19 + 2 - 11 then _0x87.reb=_0x88;_0x17(_0x13.Rebirth) end;if UI.GetValue(__0xbfd(177)) and _0x88 - _0x87.upg >= 11 + 26 - 32 then _0x87.upg=_0x88;local _0x36=UI.GetValue(__0xbfd(178)) or 1 - 1;local _0x8b=_0xa[_0x36 + (2 - 1)] or __0xbfd(179);_0x17(_0x13.BuyUpgrade,_0x8b) end;if UI.GetValue(__0xbfd(180)) and _0x88 - _0x87.red >= 30 * 2 + 0 then _0x87.red=_0x88;task.spawn(function() _0x27(true) end) end;task.wait(0.5) end end);local _0x8c=25 + 5;local _0x8d={};for _0x8e=2 - 1,_0x8c do local _0x8f=Drawing.new(__0xbfd(181));_0x8f.Thickness=1.5;_0x8f.Filled=false;_0x8f.Visible=false;local _0x90=Drawing.new(__0xbfd(182));_0x90.Filled=true;_0x90.Color=Color3.fromRGB(39 + 21 - 45,14 + 1,18 + 14 - 17);_0x90.Visible=false;local _0x91=Drawing.new(__0xbfd(183));_0x91.Filled=true;_0x91.Visible=false;local _0x92=Drawing.new(__0xbfd(184));_0x92.Size=50 + 2 - 39;_0x92.Center=true;_0x92.Outline=true;_0x92.Font=2 - 1;_0x92.Visible=false;local _0x93=Drawing.new(__0xbfd(185));_0x93.Size=9 + 2;_0x93.Center=true;_0x93.Outline=true;_0x93.Font=2 - 1;_0x93.Visible=false;local _0x94=Drawing.new(__0xbfd(186));_0x94.Thickness=2 - 1;_0x94.Visible=false;_0x8d[_0x8e]={box=_0x8f,barBg=_0x90,bar=_0x91,nameTag=_0x92,subTag=_0x93,tracer=_0x94} end;local function _0x95(_0x96) if not _0x96 then return end;_0x96.box.Visible=false;_0x96.barBg.Visible=false;_0x96.bar.Visible=false;_0x96.nameTag.Visible=false;_0x96.subTag.Visible=false;_0x96.tracer.Visible=false end;local _0x97=1 - 1;local _0x98=_0x3.RenderStepped:Connect(function() local _0x99=1 - 1;local _0x9a=UI.GetValue(__0xbfd(187));local _0x9b=UI.GetValue(__0xbfd(188));local _0x9c=UI.GetValue(__0xbfd(189));local _0x9d=UI.GetValue(__0xbfd(190));local _0x9e=UI.GetValue(__0xbfd(191));local _0x9f=UI.GetValue(__0xbfd(192));local _0xa0=UI.GetValue(__0xbfd(193));local _0xa1=UI.GetValue(__0xbfd(194)) or 680 + 320;local _0xa2=UI.GetValue(__0xbfd(195));local _0xa3=UI.GetValue(__0xbfd(196));local _0xa4=UI.GetValue(__0xbfd(197));local _0xa5=UI.GetValue(__0xbfd(198));if _0x9a then local _0xa6=_0x14();local _0x60=_0xa6 and _0xa6.Position;local _0xa7=Vector2.new(_0x6.ViewportSize.X / (2 + 0),_0x6.ViewportSize.Y);local _0xa8=table.clone(_0x43);for _0x8e=2 - 1,#_0xa8 do if _0x99 >= _0x8c then break end;local _0x59=_0xa8[_0x8e];if _0x59 and _0x59.root and _0x59.root.Parent then local _0xa9=false;if _0x59.category == __0xbfd(199) and _0xa2 then _0xa9=true elseif _0x59.category == __0xbfd(200) and _0xa3 then _0xa9=true elseif _0x59.category == __0xbfd(201) and _0xa4 then _0xa9=true elseif _0x59.category == __0xbfd(202) and _0xa5 then _0xa9=true end;if _0xa9 then local _0xaa=_0x59.root.Position;local _0xab=_0x60 and _0x60 - _0xaa.Magnitude or 1 - 1;if _0xab <= _0xa1 then local _0xac,_0xad=WorldToScreen(_0xaa);if _0xad then _0x99=_0x99 + (2 - 1);local _0xae=_0x8d[_0x99];local _0xaf=math.floor(_0xab);local _0xb0=math.clamp(_0x59.hp / _0x59.maxHp,1 - 1,2 - 1);local _0xb1=math.clamp((242 * 7 + 6) / (_0xab + (2 - 1)),3 * 6 + 4,44 * 5 + 0);local _0xb2=_0xb1 * 0.65;local _0xb3=_0xac.X - _0xb2 / (1 + 1);local _0xb4=_0xac.Y - _0xb1 / (2 + 0);local _0xb5=_0x59.color or Color3.fromRGB(68 + 187,31 * 8 + 7,115 + 140);if _0x9b then _0xae.box.Position=Vector2.new(_0xb3,_0xb4);_0xae.box.Size=Vector2.new(_0xb2,_0xb1);_0xae.box.Color=_0xb5;_0xae.box.Visible=true else _0xae.box.Visible=false end;if _0x9d then _0xae.barBg.Position=Vector2.new(_0xb3 - (2 * 3 + 0),_0xb4);_0xae.barBg.Size=Vector2.new(2 + 1,_0xb1);_0xae.barBg.Visible=true;local _0xb6=math.floor(_0xb1 * _0xb0);_0xae.bar.Position=Vector2.new(_0xb3 - (4 + 2),_0xb4 + (_0xb1 - _0xb6));_0xae.bar.Size=Vector2.new(3 + 0,_0xb6);_0xae.bar.Color=Color3.fromRGB(math.floor((63 + 209 - 17) * (2 - 1 - _0xb0)),math.floor((36 * 6 + 4) * _0xb0),57 + 38 - 45);_0xae.bar.Visible=true else _0xae.barBg.Visible=false;_0xae.bar.Visible=false end;if _0x9c then _0xae.nameTag.Position=Vector2.new(_0xac.X,_0xb4 - (3 * 5 + 1));_0xae.nameTag.Text=string.format(__0xbfd(203),_0x59.tagLabel,_0x59.name);_0xae.nameTag.Color=_0xb5;_0xae.nameTag.Visible=true else _0xae.nameTag.Visible=false end;if _0x9e or _0x9f then local _0xb7={};if _0x9e then table.insert(_0xb7,string.format(__0xbfd(204),math.floor(_0x59.hp),math.floor(_0x59.maxHp))) end;if _0x9f then table.insert(_0xb7,string.format(__0xbfd(205),_0xaf)) end;_0xae.subTag.Position=Vector2.new(_0xac.X,_0xb4 + _0xb1 + (5 + 39 - 41));_0xae.subTag.Text=table.concat(_0xb7,__0xbfd(206));_0xae.subTag.Color=Color3.fromRGB(22 * 10 + 0,88 + 158 - 26,125 + 95);_0xae.subTag.Visible=true else _0xae.subTag.Visible=false end;if _0xa0 then _0xae.tracer.From=_0xa7;_0xae.tracer.To=Vector2.new(_0xac.X,_0xb4 + _0xb1);_0xae.tracer.Color=_0xb5;_0xae.tracer.Visible=true else _0xae.tracer.Visible=false end end end end end end end;for _0x36=_0x99 + (2 - 1),_0x97 do _0x95(_0x8d[_0x36]) end;_0x97=_0x99 end);local _0xb8=false;local function _0xb9(_0xba) if _0xb8 then return end;_0xb8=true;if _G.ANT_HUB_BOOT == _0xe then _G.ANT_HUB_BOOT=nil end;pcall(function() _0x98:Disconnect() end);for _0x22,_0x96 in ipairs(_0x8d) do pcall(function() _0x96.box:Remove();_0x96.barBg:Remove();_0x96.bar:Remove();_0x96.nameTag:Remove();_0x96.subTag:Remove();_0x96.tracer:Remove() end) end;pcall(function() _0x5:SetAttribute(__0xbfd(207),2 - 1) end);if not _0xba then task.spawn(function() task.wait(0.08);pcall(function() UI.RemoveTab(__0xbfd(208)) end);pcall(function() notify(__0xbfd(209),__0xbfd(210),3 + 1) end);print(__0xbfd(211)) end) end end;_G.ANT_HUB_STOP=_0xb9;UI.AddTab(__0xbfd(212),function(_0xbb) local _0xbc=_0xbb:Section(__0xbfd(213),__0xbfd(214),{__0xbfd(215),__0xbfd(216)});if _0xbc.page == 1 - 1 then _0xbc:Text(__0xbfd(217));_0xbc:Toggle(__0xbfd(218),__0xbfd(219));_0xbc:Tip(__0xbfd(220));_0xbc:SliderInt(__0xbfd(221),__0xbfd(222),7 + 13,75 + 85,92 + 26 - 38);_0xbc:SliderInt(__0xbfd(223),__0xbfd(224),2 * 3 + 0,14 + 11,41 + 7 - 34);_0xbc:Toggle(__0xbfd(225),__0xbfd(226),true);_0xbc:Toggle(__0xbfd(227),__0xbfd(228),true);_0xbc:Toggle(__0xbfd(229),__0xbfd(230),true);_0xbc:Toggle(__0xbfd(231),__0xbfd(232),true);_0xbc:Spacing();_0xbc:Text(__0xbfd(233));_0xbc:Toggle(__0xbfd(234),__0xbfd(235));_0xbc:Tip(__0xbfd(236));_0xbc:SliderInt(__0xbfd(237),__0xbfd(238),11 + 4,52 + 77 - 49,16 + 19);_0xbc:Toggle(__0xbfd(239),__0xbfd(240));_0xbc:SliderInt(__0xbfd(241),__0xbfd(242),8 + 2,92 + 13 - 25,8 + 59 - 42);_0xbc:Toggle(__0xbfd(243),__0xbfd(244));_0xbc:SliderInt(__0xbfd(245),__0xbfd(246),6 + 2,8 * 9 + 8,15 + 3);_0xbc:Spacing();_0xbc:Text(__0xbfd(247));_0xbc:Toggle(__0xbfd(248),__0xbfd(249));_0xbc:SliderInt(__0xbfd(250),__0xbfd(251),2 * 8 + 0,50 * 5 + 0,20 + 90 - 50);_0xbc:Toggle(__0xbfd(252),__0xbfd(253));_0xbc:Toggle(__0xbfd(254),__0xbfd(255));_0xbc:SliderInt(__0xbfd(256),__0xbfd(257),1 + 9,166 * 6 + 4,71 * 7 + 3) elseif _0xbc.page == 2 - 1 then _0xbc:Text(__0xbfd(258));_0xbc:Toggle(__0xbfd(259),__0xbfd(260));_0xbc:Toggle(__0xbfd(261),__0xbfd(262));_0xbc:Toggle(__0xbfd(263),__0xbfd(264));_0xbc:Combo(__0xbfd(265),__0xbfd(266),_0xa,1 - 1);_0xbc:Spacing();_0xbc:Text(__0xbfd(267));_0xbc:Toggle(__0xbfd(268),__0xbfd(269));_0xbc:Button(__0xbfd(270),function() task.spawn(function() _0x27(false) end) end);_0xbc:Button(__0xbfd(271),function() task.spawn(_0x3d) end) end;local _0xbd=_0xbb:Section(__0xbfd(272),__0xbfd(273));_0xbd:Toggle(__0xbfd(274),__0xbfd(275));_0xbd:Toggle(__0xbfd(276),__0xbfd(277));_0xbd:Toggle(__0xbfd(278),__0xbfd(279));_0xbd:Toggle(__0xbfd(280),__0xbfd(281));_0xbd:Toggle(__0xbfd(282),__0xbfd(283));_0xbd:Toggle(__0xbfd(284),__0xbfd(285));_0xbd:Toggle(__0xbfd(286),__0xbfd(287));_0xbd:SliderInt(__0xbfd(288),__0xbfd(289),8 * 6 + 2,480 + 1559 - 39,339 + 680 - 19);_0xbd:Spacing();_0xbd:Text(__0xbfd(290));_0xbd:Toggle(__0xbfd(291),__0xbfd(292),true);_0xbd:Toggle(__0xbfd(293),__0xbfd(294),true);_0xbd:Toggle(__0xbfd(295),__0xbfd(296),true);_0xbd:Toggle(__0xbfd(297),__0xbfd(298),true);local _0xbe=_0xbb:Section(__0xbfd(299),__0xbfd(300));_0xbe:Button(__0xbfd(301),function() _0x20() end);_0xbe:Button(__0xbfd(302),function() _0x24() end);_0xbe:Button(__0xbfd(303),function() _0xb9(false) end) end);print(__0xbfd(304))
+local Players      = game:GetService("Players")
+local RS           = game:GetService("ReplicatedStorage")
+local WS           = game:GetService("Workspace")
+local RunService   = game:GetService("RunService")
+local HttpService  = game:GetService("HttpService")
+local LocalPlayer  = Players.LocalPlayer
+local Camera       = WS.CurrentCamera
+local CONFIG_FILE    = "ant_hub_matcha.json"
+local FALLBACK_CODES = {"ANTS", "EVOLVE", "RELEASE", "QUEEN"}
+local RECORD_KEYS    = {"food","grow","evolve","rebirth","ants","bugs","boss","mutate","roll","pets","eggs","sugar","feast","play"}
+local UPGRADE_LIST   = {"Jaws", "Magnet", "Shell", "Legs", "Appetite", "Regen"}
+local PLAYTIME_SLOTS = 10
+local QUEST_SLOTS    = 3
+local CLAIM_GAP      = 1.15
+if _G.ANT_HUB_STOP then
+    pcall(_G.ANT_HUB_STOP, true)
+end
+local SCRIPT_ID = tick()
+_G.ANT_HUB_BOOT = SCRIPT_ID
+local function isAlive()
+    return _G.ANT_HUB_BOOT == SCRIPT_ID
+end
+local Rem = RS:WaitForChild("AntRemotes", 10)
+local function getRemote(name)
+    return Rem and Rem:FindFirstChild(name)
+end
+local R = {
+    Evolve         = getRemote("Evolve"),
+    Rebirth        = getRemote("Rebirth"),
+    BuyUpgrade     = getRemote("BuyUpgrade"),
+    ClaimDaily     = getRemote("ClaimDaily"),
+    ClaimPlaytime  = getRemote("ClaimPlaytime"),
+    ClaimQuest     = getRemote("ClaimQuest"),
+    ClaimRecord    = getRemote("ClaimRecord"),
+    Redeem         = getRemote("Redeem"),
+    CommunityClaim = getRemote("CommunityClaim"),
+}
+local function getHRP(char)
+    local c = char or LocalPlayer.Character
+    return c and (c:FindFirstChild("HumanoidRootPart") or c.PrimaryPart or c:FindFirstChild("Head"))
+end
+local function invokeServerSafe(remoteInstance, ...)
+    if not remoteInstance then return false end
+    local args = {...}
+    local ok, res = pcall(function()
+        if remoteInstance.ClassName == "RemoteFunction" then
+            return remoteInstance:InvokeServer(table.unpack(args))
+        elseif remoteInstance.ClassName == "RemoteEvent" then
+            remoteInstance:FireServer(table.unpack(args))
+            return true
+        end
+    end)
+    return ok and res
+end
+local function getJsonAttr(attrName)
+    local raw = LocalPlayer:GetAttribute(attrName)
+    if type(raw) ~= "string" then return nil end
+    local ok, res = pcall(function() return HttpService:JSONDecode(raw) end)
+    return (ok and type(res) == "table") and res or nil
+end
+local WIDGET_IDS = {
+    "hitbox_on", "hitbox_reach", "hitbox_size",
+    "hitbox_mobs", "hitbox_bosses", "hitbox_players", "hitbox_bots",
+    "speed_on", "speed_val", "fly_on", "antidmg_on", "dodge_dist",
+    "antiboss_aoe", "boss_dodge_dist", "keepaway_on", "keep_radius",
+    "magnet_on", "magnet_val",
+    "esp_on", "esp_box", "esp_name", "esp_hp", "esp_hp_text",
+    "esp_dist", "esp_tracers", "esp_max_dist",
+    "esp_mobs", "esp_bosses", "esp_players", "esp_bots",
+    "auto_evo", "auto_rebirth", "auto_upg", "upg_idx", "rewards_auto"
+}
+local function saveConfig()
+    local dump = {}
+    for _, id in ipairs(WIDGET_IDS) do
+        dump[id] = UI.GetValue(id)
+    end
+    writefile(CONFIG_FILE, HttpService:JSONEncode(dump))
+    print("[AntHub] Config saved to " .. CONFIG_FILE)
+end
+local function loadConfig()
+    if not isfile(CONFIG_FILE) then return end
+    local ok, dump = pcall(function()
+        return HttpService:JSONDecode(readfile(CONFIG_FILE))
+    end)
+    if ok and type(dump) == "table" then
+        for _, id in ipairs(WIDGET_IDS) do
+            if dump[id] ~= nil then
+                UI.SetValue(id, dump[id])
+            end
+        end
+        print("[AntHub] Config loaded successfully.")
+    end
+end
+local rewardsBusy = false
+local seenRecords = {}
+local function claimAllRewards(silent)
+    if rewardsBusy then return end
+    rewardsBusy = true
+    local initialDNA = tonumber(LocalPlayer:GetAttribute("DNA")) or 0
+    local function tryCall(remInst, arg)
+        invokeServerSafe(remInst, arg)
+        task.wait(CLAIM_GAP)
+    end
+    local dailyNext = tonumber(LocalPlayer:GetAttribute("DailyNext")) or 0
+    if dailyNext <= os.time() then
+        tryCall(R.ClaimDaily)
+    end
+    local claimedPlay = {}
+    for _, v in ipairs(getJsonAttr("PlaytimeClaimed") or {}) do
+        claimedPlay[tonumber(v) or 0] = true
+    end
+    for slot = 1, PLAYTIME_SLOTS do
+        if not claimedPlay[slot] then
+            tryCall(R.ClaimPlaytime, slot)
+        end
+    end
+    local qData = getJsonAttr("Quests")
+    local allDone = (qData ~= nil and type(qData.q) == "table")
+    for slot = 1, QUEST_SLOTS do
+        local row = qData and qData.q and qData.q[slot]
+        local ready = not row or (tonumber(row[4]) or 0) >= (tonumber(row[3]) or 1)
+        if row and row[5] ~= 1 and not ready then
+            allDone = false
+        end
+        if not row or (row[5] ~= 1 and ready) then
+            tryCall(R.ClaimQuest, slot)
+        end
+    end
+    if not qData or (qData.b ~= 1 and allDone) then
+        tryCall(R.ClaimQuest, "bonus")
+    end
+    local function getTier(idx)
+        local rec = getJsonAttr("Records")
+        local row = rec and rec[idx]
+        return row and tonumber(row[1]) or 0, row and tonumber(row[2]) or 0
+    end
+    for idx, key in ipairs(RECORD_KEYS) do
+        local tier, prog = getTier(idx)
+        if seenRecords[key] ~= prog or not silent then
+            for _ = 1, 5 do
+                tryCall(R.ClaimRecord, key)
+                local t2 = getTier(idx)
+                if t2 <= tier then break end
+                tier = t2
+            end
+            seenRecords[key] = prog
+        end
+    end
+    if LocalPlayer:GetAttribute("CommunityClaimed") ~= true then
+        tryCall(R.CommunityClaim)
+    end
+    rewardsBusy = false
+    local gain = (tonumber(LocalPlayer:GetAttribute("DNA")) or 0) - initialDNA
+    print(string.format("[Rewards] Claim complete. DNA: +%d", gain))
+end
+local function redeemAllCodes()
+    local codes = {}
+    local ok, src = pcall(function() return decompile(RS.Ant.Config) end)
+    if ok and type(src) == "string" then
+        local a = string.find(src, "%.Codes = {")
+        local b = a and string.find(src, "%.Community = {", a)
+        if a and b then
+            for code in string.gmatch(string.sub(src, a, b), '%["([%u%d_]+)"%]') do
+                codes[#codes + 1] = code
+            end
+        end
+    end
+    if #codes == 0 then codes = FALLBACK_CODES end
+    local initialDNA = tonumber(LocalPlayer:GetAttribute("DNA")) or 0
+    for _, code in ipairs(codes) do
+        invokeServerSafe(R.Redeem, code)
+        task.wait(CLAIM_GAP)
+    end
+    local gain = (tonumber(LocalPlayer:GetAttribute("DNA")) or 0) - initialDNA
+    print(string.format("[Codes] %d codes redeemed. DNA: +%d", #codes, gain))
+end
+local activeTargets = {}
+local targetThreats = {}
+task.spawn(function()
+    while isAlive() do
+        local targets, threats = {}, {}
+        for _, p in ipairs(Players:GetPlayers()) do
+            if p ~= LocalPlayer and p.Character then
+                local root = getHRP(p.Character)
+                if root then
+                    threats[#threats + 1] = root
+                    local hp = tonumber(p.Character:GetAttribute("HP") or 0) or 0
+                    local maxHp = tonumber(p.Character:GetAttribute("MaxHP") or 60) or 60
+                    targets[#targets + 1] = {
+                        instance = p.Character,
+                        root     = root,
+                        name     = p.Name,
+                        stage    = tostring(p:GetAttribute("Stage") or "?"),
+                        hp       = hp,
+                        maxHp    = math.max(maxHp, 1),
+                        category = "Player",
+                        tagLabel = "PLAYER",
+                        color    = Color3.fromRGB(0, 220, 255)
+                    }
+                end
+            end
+        end
+        local ants = WS:FindFirstChild("Ants")
+        if ants then
+            local critters = ants:FindFirstChild("Critters")
+            if critters then
+                for _, c in ipairs(critters:GetChildren()) do
+                    local root = getHRP(c)
+                    if root then
+                        threats[#threats + 1] = root
+                        local hp = tonumber(c:GetAttribute("HP") or 0) or 0
+                        local maxHp = tonumber(c:GetAttribute("MaxHP") or hp or 100) or 100
+                        local isBoss = hp >= 5000 or c.Name:lower():find("queen") ~= nil or c.Name:lower():find("boss") ~= nil
+                        targets[#targets + 1] = {
+                            instance = c,
+                            root     = root,
+                            name     = c.Name,
+                            stage    = isBoss and "BOSS" or "MOB",
+                            hp       = hp,
+                            maxHp    = math.max(maxHp, 1),
+                            category = isBoss and "Boss" or "Mob",
+                            tagLabel = isBoss and "BOSS" or "MOB",
+                            color    = isBoss and Color3.fromRGB(255, 35, 35) or Color3.fromRGB(50, 255, 100)
+                        }
+                    end
+                end
+            end
+            local bots = ants:FindFirstChild("Bots")
+            if bots then
+                for _, b in ipairs(bots:GetChildren()) do
+                    local root = getHRP(b)
+                    if root then
+                        threats[#threats + 1] = root
+                        local hp = tonumber(b:GetAttribute("HP") or 0) or 0
+                        local maxHp = tonumber(b:GetAttribute("MaxHP") or hp or 100) or 100
+                        local isBoss = hp >= 5000 or b:GetAttribute("IsBoss") == true
+                        targets[#targets + 1] = {
+                            instance = b,
+                            root     = root,
+                            name     = b.Name,
+                            stage    = isBoss and "ELITE" or "BOT",
+                            hp       = hp,
+                            maxHp    = math.max(maxHp, 1),
+                            category = isBoss and "Boss" or "Bot",
+                            tagLabel = isBoss and "BOSS" or "BOT",
+                            color    = isBoss and Color3.fromRGB(255, 35, 35) or Color3.fromRGB(255, 195, 0)
+                        }
+                    end
+                end
+            end
+        end
+        activeTargets = targets
+        targetThreats = threats
+        task.wait(0.3)
+    end
+end)
+local origCharLength = nil
+task.spawn(function()
+    while isAlive() do
+        local enabled = UI.GetValue("hitbox_on")
+        local reachVal = UI.GetValue("hitbox_reach") or 80
+        local partSize = UI.GetValue("hitbox_size") or 14
+        local doMobs = UI.GetValue("hitbox_mobs")
+        local doBosses = UI.GetValue("hitbox_bosses")
+        local doPlayers = UI.GetValue("hitbox_players")
+        local doBots = UI.GetValue("hitbox_bots")
+        local myChar = LocalPlayer.Character
+        if enabled then
+            if myChar then
+                if not origCharLength then
+                    origCharLength = myChar:GetAttribute("Length") or 10
+                end
+                if myChar:GetAttribute("Length") ~= reachVal then
+                    pcall(function() myChar:SetAttribute("Length", reachVal) end)
+                end
+            end
+            local list = table.clone(activeTargets)
+            for _, t in ipairs(list) do
+                if t and t.root and t.root.Parent then
+                    local allowed = false
+                    if t.category == "Mob" and doMobs then allowed = true
+                    elseif t.category == "Boss" and doBosses then allowed = true
+                    elseif t.category == "Player" and doPlayers then allowed = true
+                    elseif t.category == "Bot" and doBots then allowed = true
+                    end
+                    if allowed then
+                        if math.abs(t.root.Size.X - partSize) > 0.5 then
+                            pcall(function()
+                                t.root.Size = Vector3.new(partSize, partSize, partSize)
+                                t.root.CanCollide = false
+                            end)
+                        end
+                        if t.instance and t.category == "Mob" and t.instance:GetAttribute("Length") ~= reachVal then
+                            pcall(function() t.instance:SetAttribute("Length", reachVal) end)
+                        end
+                    end
+                end
+            end
+        else
+            if origCharLength and myChar then
+                pcall(function() myChar:SetAttribute("Length", origCharLength) end)
+                origCharLength = nil
+            end
+        end
+        task.wait(0.4)
+    end
+end)
+local prevHP = nil
+local lastGeneralDodge = 0
+local lastBossDodge = 0
+local function checkBossTelegraphs()
+    local myChar = LocalPlayer.Character
+    local myHRP = getHRP(myChar)
+    if not myChar or not myHRP then return end
+    local myPos = myHRP.Position
+    local dodgeDist = UI.GetValue("boss_dodge_dist") or 35
+    local dangerFound, dangerCenter = false, nil
+    local cfx = WS:FindFirstChild("ClientFx")
+    if cfx then
+        for _, fx in ipairs(cfx:GetChildren()) do
+            local fn = fx.Name:lower()
+            if fn:find("aim") or fn:find("anteater") or fn:find("telegraph") or fn:find("flash") or fn:find("area") or fn:find("boss") then
+                local p = (fx.ClassName == "Part" or fx.ClassName == "MeshPart") and fx.Position
+                if p then
+                    local d = (p - myPos).Magnitude
+                    local dangerRadius = 26
+                    if fx.ClassName == "Part" and fx.Size.X > 5 then
+                        dangerRadius = math.max(fx.Size.X * 0.65, 20)
+                    end
+                    if d <= dangerRadius then
+                        dangerFound = true
+                        dangerCenter = p
+                        break
+                    end
+                end
+            end
+        end
+    end
+    if dangerFound and dangerCenter and (tick() - lastBossDodge) > 0.5 then
+        local dx = myPos.X - dangerCenter.X
+        local dz = myPos.Z - dangerCenter.Z
+        local mag = math.sqrt(dx * dx + dz * dz)
+        if mag < 0.01 then
+            local look = myHRP.CFrame.LookVector
+            dx, dz, mag = -look.X, -look.Z, 1
+        end
+        local factor = dodgeDist / mag
+        pcall(function()
+            myHRP.CFrame = CFrame.new(myPos.X + dx * factor, myPos.Y + 2, myPos.Z + dz * factor)
+        end)
+        lastBossDodge = tick()
+    end
+end
+local function runDefense()
+    local antiDmg = UI.GetValue("antidmg_on")
+    local keepAway = UI.GetValue("keepaway_on")
+    local antiBoss = UI.GetValue("antiboss_aoe")
+    if antiBoss then
+        checkBossTelegraphs()
+    end
+    if not (antiDmg or keepAway) then
+        prevHP = nil
+        return
+    end
+    local myChar = LocalPlayer.Character
+    local myHRP = getHRP(myChar)
+    if not myChar or not myHRP then return end
+    local currentHP = tonumber(myChar:GetAttribute("HP")) or 0
+    local wasHit = prevHP ~= nil and currentHP < (prevHP - 0.5)
+    prevHP = currentHP
+    if (tick() - lastGeneralDodge) < 1.1 then return end
+    local myPos = myHRP.Position
+    local nearestPos, nearestDist = nil, math.huge
+    for _, root in ipairs(targetThreats) do
+        local ok, pos = pcall(function() return root.Position end)
+        if ok and pos then
+            local d = (pos - myPos).Magnitude
+            if d < nearestDist and d < 400 then
+                nearestDist = d
+                nearestPos = pos
+            end
+        end
+    end
+    local dodgeDist = UI.GetValue("dodge_dist") or 25
+    local keepRadius = UI.GetValue("keep_radius") or 18
+    local shouldDodge = false
+    local fromPos = nil
+    if antiDmg and wasHit then
+        shouldDodge = true
+        fromPos = (nearestPos and nearestDist < 60) and nearestPos or nil
+    elseif keepAway and nearestPos and nearestDist < keepRadius then
+        shouldDodge = true
+        fromPos = nearestPos
+    end
+    if shouldDodge then
+        local dx, dz
+        if fromPos then
+            dx = myPos.X - fromPos.X
+            dz = myPos.Z - fromPos.Z
+        else
+            local look = myHRP.CFrame.LookVector
+            dx, dz = -look.X, -look.Z
+        end
+        local mag = math.sqrt(dx * dx + dz * dz)
+        if mag < 0.01 then dx, dz, mag = 1, 0, 1 end
+        local factor = dodgeDist / mag
+        pcall(function()
+            myHRP.CFrame = CFrame.new(myPos.X + dx * factor, myPos.Y + 1.5, myPos.Z + dz * factor)
+        end)
+        lastGeneralDodge = tick()
+    end
+end
+task.spawn(function()
+    while isAlive() do
+        pcall(runDefense)
+        task.wait(0.06)
+    end
+end)
+local magnetActive = false
+task.spawn(function()
+    while isAlive() do
+        local autoOrb = UI.GetValue("magnet_on")
+        local magnetVal = UI.GetValue("magnet_val") or 500
+        if autoOrb then
+            if not magnetActive or LocalPlayer:GetAttribute("MagnetMult") ~= magnetVal then
+                pcall(function() LocalPlayer:SetAttribute("MagnetMult", magnetVal) end)
+                magnetActive = true
+            end
+        elseif magnetActive then
+            pcall(function() LocalPlayer:SetAttribute("MagnetMult", 1) end)
+            magnetActive = false
+        end
+        task.wait(0.2)
+    end
+end)
+task.spawn(function()
+    while isAlive() do
+        local fly = UI.GetValue("fly_on")
+        local speed = UI.GetValue("speed_on")
+        local speedVal = UI.GetValue("speed_val") or 60
+        if fly or speed then
+            local hrp = getHRP()
+            if hrp then
+                local ok, vel = pcall(function() return hrp.AssemblyLinearVelocity end)
+                if ok and vel then
+                    local vx, vy, vz = vel.X, vel.Y, vel.Z
+                    local update = false
+                    if speed then
+                        local lv = hrp.CFrame.LookVector
+                        vx, vz = lv.X * speedVal, lv.Z * speedVal
+                        update = true
+                    end
+                    if fly and vy < 6 then
+                        vy = 26
+                        update = true
+                    end
+                    if update then
+                        pcall(function() hrp.AssemblyLinearVelocity = Vector3.new(vx, vy, vz) end)
+                    end
+                end
+            end
+        end
+        task.wait(0.05)
+    end
+end)
+local lastTimers = {evo = 0, reb = 0, upg = 0, red = 0}
+task.spawn(function()
+    while isAlive() do
+        local now = tick()
+        if UI.GetValue("auto_evo") and (now - lastTimers.evo) >= 1 then
+            local pwr = tonumber(LocalPlayer:GetAttribute("Power"))
+            local req = tonumber(LocalPlayer:GetAttribute("Need"))
+            if pwr and req and pwr >= req then
+                lastTimers.evo = now
+                invokeServerSafe(R.Evolve)
+            end
+        end
+        if UI.GetValue("auto_rebirth") and (now - lastTimers.reb) >= 10 then
+            lastTimers.reb = now
+            invokeServerSafe(R.Rebirth)
+        end
+        if UI.GetValue("auto_upg") and (now - lastTimers.upg) >= 5 then
+            lastTimers.upg = now
+            local idx = UI.GetValue("upg_idx") or 0
+            local targetName = UPGRADE_LIST[idx + 1] or "Jaws"
+            invokeServerSafe(R.BuyUpgrade, targetName)
+        end
+        if UI.GetValue("rewards_auto") and (now - lastTimers.red) >= 60 then
+            lastTimers.red = now
+            task.spawn(function() claimAllRewards(true) end)
+        end
+        task.wait(0.5)
+    end
+end)
+local MAX_ESP_POOL = 30
+local espPool = {}
+for i = 1, MAX_ESP_POOL do
+    local box = Drawing.new("Square")
+    box.Thickness = 1.5
+    box.Filled = false
+    box.Visible = false
+    local barBg = Drawing.new("Square")
+    barBg.Filled = true
+    barBg.Color = Color3.fromRGB(15, 15, 15)
+    barBg.Visible = false
+    local bar = Drawing.new("Square")
+    bar.Filled = true
+    bar.Visible = false
+    local nameTag = Drawing.new("Text")
+    nameTag.Size = 13
+    nameTag.Center = true
+    nameTag.Outline = true
+    nameTag.Font = 1
+    nameTag.Visible = false
+    local subTag = Drawing.new("Text")
+    subTag.Size = 11
+    subTag.Center = true
+    subTag.Outline = true
+    subTag.Font = 1
+    subTag.Visible = false
+    local tracer = Drawing.new("Line")
+    tracer.Thickness = 1
+    tracer.Visible = false
+    espPool[i] = {
+        box = box,
+        barBg = barBg,
+        bar = bar,
+        nameTag = nameTag,
+        subTag = subTag,
+        tracer = tracer
+    }
+end
+local function hideESP(item)
+    if not item then return end
+    item.box.Visible = false
+    item.barBg.Visible = false
+    item.bar.Visible = false
+    item.nameTag.Visible = false
+    item.subTag.Visible = false
+    item.tracer.Visible = false
+end
+local activeEspCount = 0
+local espConnection = RunService.RenderStepped:Connect(function()
+    local renderCount = 0
+    local espEnabled = UI.GetValue("esp_on")
+    local drawBox = UI.GetValue("esp_box")
+    local showNames = UI.GetValue("esp_name")
+    local showHpBar = UI.GetValue("esp_hp")
+    local showHpText = UI.GetValue("esp_hp_text")
+    local showDist = UI.GetValue("esp_dist")
+    local drawTracers = UI.GetValue("esp_tracers")
+    local maxDist = UI.GetValue("esp_max_dist") or 1000
+    local showMobs = UI.GetValue("esp_mobs")
+    local showBosses = UI.GetValue("esp_bosses")
+    local showPlayers = UI.GetValue("esp_players")
+    local showBots = UI.GetValue("esp_bots")
+    if espEnabled then
+        local myRoot = getHRP()
+        local myPos = myRoot and myRoot.Position
+        local screenBottom = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y)
+        local targetsCopy = table.clone(activeTargets)
+        for i = 1, #targetsCopy do
+            if renderCount >= MAX_ESP_POOL then break end
+            local t = targetsCopy[i]
+            if t and t.root and t.root.Parent then
+                local allowEsp = false
+                if t.category == "Mob" and showMobs then allowEsp = true
+                elseif t.category == "Boss" and showBosses then allowEsp = true
+                elseif t.category == "Player" and showPlayers then allowEsp = true
+                elseif t.category == "Bot" and showBots then allowEsp = true
+                end
+                if allowEsp then
+                    local rootPos = t.root.Position
+                    local dist = myPos and (myPos - rootPos).Magnitude or 0
+                    if dist <= maxDist then
+                        local screenPos, onScreen = WorldToScreen(rootPos)
+                        if onScreen then
+                            renderCount = renderCount + 1
+                            local poolItem = espPool[renderCount]
+                            local distInt = math.floor(dist)
+                            local hpPercent = math.clamp(t.hp / t.maxHp, 0, 1)
+                            local h = math.clamp(1700 / (dist + 1), 22, 220)
+                            local w = h * 0.65
+                            local topX = screenPos.X - (w / 2)
+                            local topY = screenPos.Y - (h / 2)
+                            local assignedColor = t.color or Color3.fromRGB(255, 255, 255)
+                            if drawBox then
+                                poolItem.box.Position = Vector2.new(topX, topY)
+                                poolItem.box.Size = Vector2.new(w, h)
+                                poolItem.box.Color = assignedColor
+                                poolItem.box.Visible = true
+                            else
+                                poolItem.box.Visible = false
+                            end
+                            if showHpBar then
+                                poolItem.barBg.Position = Vector2.new(topX - 6, topY)
+                                poolItem.barBg.Size = Vector2.new(3, h)
+                                poolItem.barBg.Visible = true
+                                local fillH = math.floor(h * hpPercent)
+                                poolItem.bar.Position = Vector2.new(topX - 6, topY + (h - fillH))
+                                poolItem.bar.Size = Vector2.new(3, fillH)
+                                poolItem.bar.Color = Color3.fromRGB(
+                                    math.floor(255 * (1 - hpPercent)),
+                                    math.floor(220 * hpPercent),
+                                    50
+                                )
+                                poolItem.bar.Visible = true
+                            else
+                                poolItem.barBg.Visible = false
+                                poolItem.bar.Visible = false
+                            end
+                            if showNames then
+                                poolItem.nameTag.Position = Vector2.new(screenPos.X, topY - 16)
+                                poolItem.nameTag.Text = string.format("[%s] %s", t.tagLabel, t.name)
+                                poolItem.nameTag.Color = assignedColor
+                                poolItem.nameTag.Visible = true
+                            else
+                                poolItem.nameTag.Visible = false
+                            end
+                            if showHpText or showDist then
+                                local subTextParts = {}
+                                if showHpText then
+                                    table.insert(subTextParts, string.format("%d/%d HP", math.floor(t.hp), math.floor(t.maxHp)))
+                                end
+                                if showDist then
+                                    table.insert(subTextParts, string.format("%dm", distInt))
+                                end
+                                poolItem.subTag.Position = Vector2.new(screenPos.X, topY + h + 3)
+                                poolItem.subTag.Text = table.concat(subTextParts, " | ")
+                                poolItem.subTag.Color = Color3.fromRGB(220, 220, 220)
+                                poolItem.subTag.Visible = true
+                            else
+                                poolItem.subTag.Visible = false
+                            end
+                            if drawTracers then
+                                poolItem.tracer.From = screenBottom
+                                poolItem.tracer.To = Vector2.new(screenPos.X, topY + h)
+                                poolItem.tracer.Color = assignedColor
+                                poolItem.tracer.Visible = true
+                            else
+                                poolItem.tracer.Visible = false
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+    for idx = renderCount + 1, activeEspCount do
+        hideESP(espPool[idx])
+    end
+    activeEspCount = renderCount
+end)
+local isUnloading = false
+local function destroyHub(isReload)
+    if isUnloading then return end
+    isUnloading = true
+    if _G.ANT_HUB_BOOT == SCRIPT_ID then
+        _G.ANT_HUB_BOOT = nil
+    end
+    pcall(function() espConnection:Disconnect() end)
+    for _, item in ipairs(espPool) do
+        pcall(function()
+            item.box:Remove()
+            item.barBg:Remove()
+            item.bar:Remove()
+            item.nameTag:Remove()
+            item.subTag:Remove()
+            item.tracer:Remove()
+        end)
+    end
+    pcall(function() LocalPlayer:SetAttribute("MagnetMult", 1) end)
+    if not isReload then
+        task.spawn(function()
+            task.wait(0.08)
+            pcall(function() UI.RemoveTab("Ant Hub") end)
+            pcall(function() notify("Ant Hub", "Hub descarregado com sucesso!", 4) end)
+            print("[AntHub] Hub completely unloaded.")
+        end)
+    end
+end
+_G.ANT_HUB_STOP = destroyHub
+UI.AddTab("Ant Hub", function(tab)
+    local mainSec = tab:Section("Features Menu", "Left", {"Free Edition", "Pro Edition"})
+    if mainSec.page == 0 then
+        mainSec:Text("--- Long-Range Combat (Free) ---")
+        mainSec:Toggle("hitbox_on", "Enable Long-Range Reach")
+        mainSec:Tip("Smoothly expands reach & root hitboxes for Mobs, Bosses and Ants")
+        mainSec:SliderInt("hitbox_reach", "Attack Reach (Length)", 20, 160, 80)
+        mainSec:SliderInt("hitbox_size", "Hitbox Box Size", 6, 25, 14)
+        mainSec:Toggle("hitbox_mobs", "Hit Mobs & Critters", true)
+        mainSec:Toggle("hitbox_bosses", "Hit Bosses & Elites", true)
+        mainSec:Toggle("hitbox_players", "Hit Players", true)
+        mainSec:Toggle("hitbox_bots", "Hit Bots", true)
+        mainSec:Spacing()
+        mainSec:Text("--- Defense & Anti-Damage (Free) ---")
+        mainSec:Toggle("antiboss_aoe", "Boss Red Area Auto-Dodge")
+        mainSec:Tip("Detects red warning telegraph areas and immediately dodges out before attack hits")
+        mainSec:SliderInt("boss_dodge_dist", "Boss Dodge Distance", 15, 80, 35)
+        mainSec:Toggle("antidmg_on", "Anti Damage (On Hit Dodge)")
+        mainSec:SliderInt("dodge_dist", "On-Hit Dodge Distance", 10, 80, 25)
+        mainSec:Toggle("keepaway_on", "Keep Distance (Auto Flee)")
+        mainSec:SliderInt("keep_radius", "Safe Radius", 8, 80, 18)
+        mainSec:Spacing()
+        mainSec:Text("--- Movement & Farm (Free) ---")
+        mainSec:Toggle("speed_on", "Speed Boost")
+        mainSec:SliderInt("speed_val", "Speed Value", 16, 250, 60)
+        mainSec:Toggle("fly_on", "Fly (Anti-Gravity)")
+        mainSec:Toggle("magnet_on", "Auto Magnet (Orbs/Food)")
+        mainSec:SliderInt("magnet_val", "Magnet Force", 10, 1000, 500)
+    elseif mainSec.page == 1 then
+        mainSec:Text("--- Auto Progression (Requires Pro) ---")
+        mainSec:Toggle("auto_evo", "Auto Evolve (Requires Pro)")
+        mainSec:Toggle("auto_rebirth", "Auto Rebirth (Requires Pro)")
+        mainSec:Toggle("auto_upg", "Auto Upgrade (Requires Pro)")
+        mainSec:Combo("upg_idx", "Target Upgrade", UPGRADE_LIST, 0)
+        mainSec:Spacing()
+        mainSec:Text("--- Rewards (Requires Pro) ---")
+        mainSec:Toggle("rewards_auto", "Auto Claim Rewards (Requires Pro)")
+        mainSec:Button("Claim All Now (Requires Pro)", function()
+            task.spawn(function() claimAllRewards(false) end)
+        end)
+        mainSec:Button("Redeem Active Codes (Requires Pro)", function()
+            task.spawn(redeemAllCodes)
+        end)
+    end
+    local visSec = tab:Section("Visuals (Overlay ESP)", "Right")
+    visSec:Toggle("esp_on", "Enable ESP")
+    visSec:Toggle("esp_box", "2D Bounding Box")
+    visSec:Toggle("esp_name", "Display Names & Stage")
+    visSec:Toggle("esp_hp", "Health Bar")
+    visSec:Toggle("esp_hp_text", "Health Numbers (HP)")
+    visSec:Toggle("esp_dist", "Distance Numbers (m)")
+    visSec:Toggle("esp_tracers", "Tracers (Snaplines)")
+    visSec:SliderInt("esp_max_dist", "Max Render Distance", 50, 2000, 1000)
+    visSec:Spacing()
+    visSec:Text("Category Visibility:")
+    visSec:Toggle("esp_bosses", "Bosses (Red: Spider/Beetle)", true)
+    visSec:Toggle("esp_mobs", "Mobs (Green: Aphid/Ladybug)", true)
+    visSec:Toggle("esp_players", "Players (Cyan Blue)", true)
+    visSec:Toggle("esp_bots", "Bots (Yellow)", true)
+    local cfgSec = tab:Section("Settings", "Right")
+    cfgSec:Button("Save Settings", function() saveConfig() end)
+    cfgSec:Button("Load Settings", function() loadConfig() end)
+    cfgSec:Button("Unload Hub", function() destroyHub(false) end)
+end)
+print("[AntHub V3.5 STABLE] LOADED SUCCESSFULLY!")
